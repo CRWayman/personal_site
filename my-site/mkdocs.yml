@@ -1,4 +1,11 @@
-site_name: Callum's Personal Page
+site_name: The World of Terrenia
 nav:
     - Home: index.md
-    - About: about.md
+    - Mib: mib.md
+    - Sha'alan: shaalan.md
+#theme: readthedocs
+theme: mkdocs
+theme_dir: 'custom_theme'
+
+repo_url: https://github.com/CRWayman/
+edit_uri: ""

@@ -1,0 +1,4 @@
+site_name: Callum's Personal Page
+nav:
+    - Home: index.md
+    - About: about.md
